@@ -1,0 +1,46 @@
+Feature,Importance
+num__TotalCharges,0.15972257845245863
+num__tenure,0.1395767494643251
+num__MonthlyCharges,0.13705411742033366
+cat__Contract_Month-to-month,0.049974084419480924
+cat__OnlineSecurity_No,0.03282674475804915
+cat__PaymentMethod_Electronic check,0.031370475913330156
+cat__InternetService_Fiber optic,0.028669715607473036
+cat__TechSupport_No,0.024004264623240183
+num__SeniorCitizen,0.01957478015801526
+cat__OnlineBackup_No,0.019111287639887214
+cat__gender_Male,0.018488816577567194
+cat__gender_Female,0.017366745769924013
+cat__PaperlessBilling_Yes,0.016617721462856103
+cat__Contract_Two year,0.016312538956361672
+cat__PaperlessBilling_No,0.014908603355951915
+cat__DeviceProtection_No,0.014904346150320795
+cat__Partner_Yes,0.014639992226574394
+cat__Partner_No,0.014184316742674256
+cat__MultipleLines_No,0.01331280938664071
+cat__InternetService_DSL,0.012866551946310817
+cat__MultipleLines_Yes,0.01283102062590432
+cat__OnlineBackup_Yes,0.012762186947766057
+cat__Dependents_No,0.012528593040646841
+cat__TechSupport_Yes,0.012216407191084704
+cat__PaymentMethod_Credit card (automatic),0.012008740761564558
+cat__PaymentMethod_Bank transfer (automatic),0.01198278332954083
+cat__DeviceProtection_Yes,0.011854143900109394
+cat__OnlineSecurity_Yes,0.011816915738810583
+cat__Dependents_Yes,0.011790307117888157
+cat__StreamingMovies_Yes,0.011760915681809586
+cat__StreamingMovies_No,0.011624749264463732
+cat__StreamingTV_Yes,0.011516357283303847
+cat__Contract_One year,0.011019930281473998
+cat__StreamingTV_No,0.010924770794723159
+cat__PaymentMethod_Mailed check,0.010692324946354718
+cat__StreamingMovies_No internet service,0.004201662884692981
+cat__TechSupport_No internet service,0.00409323080611396
+cat__PhoneService_No,0.003351376409702153
+cat__InternetService_No,0.0030732037064124073
+cat__MultipleLines_No phone service,0.002873165385046372
+cat__PhoneService_Yes,0.0028215649781992737
+cat__DeviceProtection_No internet service,0.0024681114630969686
+cat__StreamingTV_No internet service,0.0023285259217797906
+cat__OnlineSecurity_No internet service,0.001109498775247773
+cat__OnlineBackup_No internet service,0.0008622717324886365
